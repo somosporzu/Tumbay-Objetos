@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tumbay Card Forge - Creador de Cartas RPG",
+  "description": "Maquetador profesional de cartas de objetos para el juego de rol Tumbay con exportación PNG a 300 DPI (750x1050) y generador de planchas PDF de 8 cartas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
